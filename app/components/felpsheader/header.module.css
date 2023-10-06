@@ -1,0 +1,23 @@
+/* Perfil */
+.profile {
+    color: #333;
+    /* Cor do texto mais escura para maior legibilidade */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    width: 100%;
+    /* Largura automática para ajustar ao conteúdo */
+}
+
+.welcome {
+    color: #333;
+    /* Cor do texto mais escura */
+    font-size: 1rem;
+}
+
+.useremail {
+    color: #888;
+    /* Cor do e-mail mais clara para menor destaque */
+    font-size: 0.75rem;
+}
